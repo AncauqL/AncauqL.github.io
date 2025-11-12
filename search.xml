@@ -54,6 +54,128 @@ class="header-section-number">4</span> 如何在自己的文章里面插入图�
       </tags>
   </entry>
   <entry>
+    <title>markdown 中的数学符号</title>
+    <url>/2025/11/09/03_markdown%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7/</url>
+    <content><![CDATA[<p>用<code>markdown</code>写笔记的时候经常要输入各种数学符号,并且很多语法和<code>Latex</code>通用,所以在此建立常用符号词典,供用时查阅.
+<span id="more"></span></p>
+<table>
+<thead>
+<tr>
+<th>　源码</th>
+<th>效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>lnot</td>
+<td><span class="math inline">\(\lnot\)</span></td>
+</tr>
+<tr>
+<td>land</td>
+<td><span class="math inline">\(\land\)</span></td>
+</tr>
+<tr>
+<td>lor</td>
+<td><span class="math inline">\(\lor\)</span></td>
+</tr>
+<tr>
+<td>to</td>
+<td><span class="math inline">\(\to\)</span></td>
+</tr>
+<tr>
+<td>leftrightarrow</td>
+<td><span class="math inline">\(\leftrightarrow\)</span></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>(持续更新)</strong></p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+        <tag>Latex</tag>
+        <tag>数学</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>离散数学名词词典</title>
     <url>/2025/11/09/02_%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%90%8D%E8%AF%8D%E8%AF%8D%E5%85%B8/</url>
     <content><![CDATA[<p>离散数学概念、定理多而杂，经常出现学完一章后，前面的内容就忘得差不多的情况。对此建立一个离散数学名词词典，方便查询与复习使用。
@@ -296,9 +418,9 @@ class="header-section-number">1.2.4</span> 谓词逻辑的解释及其赋值</h3
         <category>离散数学</category>
       </categories>
       <tags>
+        <tag>数学</tag>
         <tag>学习</tag>
         <tag>离散数学</tag>
-        <tag>数学</tag>
       </tags>
   </entry>
   <entry>
@@ -377,128 +499,6 @@ class="header-section-number">2</span>
       </categories>
       <tags>
         <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>markdown 中的数学符号</title>
-    <url>/2025/11/09/03_markdown%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7/</url>
-    <content><![CDATA[<p>用<code>markdown</code>写笔记的时候经常要输入各种数学符号,并且很多语法和<code>Latex</code>通用,所以在此建立常用符号词典,供用时查阅.
-<span id="more"></span></p>
-<table>
-<thead>
-<tr>
-<th>　源码</th>
-<th>效果</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>lnot</td>
-<td><span class="math inline">\(\lnot\)</span></td>
-</tr>
-<tr>
-<td>land</td>
-<td><span class="math inline">\(\land\)</span></td>
-</tr>
-<tr>
-<td>lor</td>
-<td><span class="math inline">\(\lor\)</span></td>
-</tr>
-<tr>
-<td>to</td>
-<td><span class="math inline">\(\to\)</span></td>
-</tr>
-<tr>
-<td>leftrightarrow</td>
-<td><span class="math inline">\(\leftrightarrow\)</span></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><strong>(持续更新)</strong></p>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>Markdown</tag>
-        <tag>数学</tag>
-        <tag>Latex</tag>
       </tags>
   </entry>
 </search>
