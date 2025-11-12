@@ -54,136 +54,6 @@ class="header-section-number">4</span> 如何在自己的文章里面插入图�
       </tags>
   </entry>
   <entry>
-    <title>离散数学名词词典</title>
-    <url>/2025/11/09/02_%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%90%8D%E8%AF%8D%E8%AF%8D%E5%85%B8/</url>
-    <content><![CDATA[<p>离散数学概念、理论多而杂，经常出现学完一章后，前面的内容就忘得差不多的情况。对此建立一个离散数学名词词典，方便查询与复习使用。
-主要参考书籍：<strong>离散数学/李盘林等编著. –3版.
-–北京：高等教育出版社，2016.2</strong></p>
-<span id="more"></span>
-<h2 data-number="1" id="数理逻辑"><span
-class="header-section-number">1</span> 数理逻辑</h2>
-<h3 data-number="1.1" id="命题逻辑"><span
-class="header-section-number">1.1</span> 命题逻辑</h3>
-<h4 data-number="1.1.1" id="命题与联结词"><span
-class="header-section-number">1.1.1</span> 命题与联结词</h4>
-<p>命题、命题常元、命题变元、联结词（<span
-class="math inline">\(\lnot\)</span> <span
-class="math inline">\(\land\)</span> <span
-class="math inline">\(\lor\)</span> <span
-class="math inline">\(\to\)</span> <span
-class="math inline">\(\leftrightarrow\)</span>）</p>
-<h4 data-number="1.1.2" id="命题公式翻译和真值表"><span
-class="header-section-number">1.1.2</span> 命题公式、翻译和真值表</h4>
-<h4 data-number="1.1.3" id="公式分类和等价式"><span
-class="header-section-number">1.1.3</span> 公式分类和等价式</h4>
-<p>有14条基本等价式_命题定律:</p>
-<ol type="1">
-<li>双否律</li>
-<li>交换律</li>
-<li>结合律</li>
-<li>分配律</li>
-<li>德摩根律</li>
-<li>等幂律</li>
-<li>同一律</li>
-<li>零律</li>
-<li>吸收律</li>
-<li>互补律</li>
-<li>条件式转化律</li>
-<li>双条件式转化律</li>
-<li>输出律</li>
-<li>归谬律</li>
-</ol>
-<p><strong>(持续更新)</strong></p>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-        <category>离散数学</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>离散数学</tag>
-        <tag>数学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2025/11/08/test_hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very
-first post. Check <a href="https://hexo.io/docs/">documentation</a> for
-more info. If you get any problems when using Hexo, you can find the
-answer in <a
-href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or
-you can ask me on <a
-href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 data-number="1" id="quick-start"><span
-class="header-section-number">1</span> Quick Start</h2>
-<h3 data-number="1.1" id="create-a-new-post"><span
-class="header-section-number">1.1</span> Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a
-href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 data-number="1.2" id="run-server"><span
-class="header-section-number">1.2</span> Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 data-number="1.3" id="generate-static-files"><span
-class="header-section-number">1.3</span> Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a
-href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 data-number="1.4" id="deploy-to-remote-sites"><span
-class="header-section-number">1.4</span> Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a
-href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第二次马原案例分析</title>
-    <url>/2025/11/03/test_%E9%A9%AC%E5%8E%9F%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/</url>
-    <content><![CDATA[<h4 data-number="1" id="问题1结合案例说明科学技术对社会发展的作用"><span
-class="header-section-number">1</span>
-问题1：结合案例说明科学技术对社会发展的作用？</h4>
-<p><strong>推动国家综合实力提升：</strong>
-探月工程体现出科技实力对国家国际地位、军事与科技竞争力的直接推动作用。嫦娥工程从绕月、落月到采样返回，展示了中国航天技术的跨越式提升，增强国家在国际舞台上的影响力与话语权。
-<span id="more"></span> <strong>带动产业与人才发展：</strong>
-探月需要航天器、遥感、材料、通信、再入返回等大片技术集成。这些技术突破不仅用于航天，还会向上下游工业、科研与教育扩散，形成技术溢出与产业链升级，培养大量高素质科研与工程人才。
-<strong>促进科学认知与创新能力：</strong>
-探月活动产生新的科学数据（如月球影像、月壤样品），推动基础科学研究（行星学、地质学、空间科学）发展，提升国家创新能力与科学研究水平。
-<strong>提升民族凝聚力与文化软实力：</strong>
-案例中“嫦娥”“玉兔”等文化命名，与万户飞天的历史叙事共同强化民族自豪感，科学成就成为社会认同与凝聚的重要来源，进而支撑政治稳定与社会发展动力。
-<strong>催生长期战略与国家治理能力提升：</strong>
-探月工程体现了“蓝图绘到底”的长期规划与组织实施能力，这种科技驱动的长期项目能提升国家治理、项目管理与风险应对能力，有利于其他领域的治理能力现代化。</p>
-<h4 data-number="2"
-id="问题2结合案例说明科学技术是第一生产力在探月工程的推进过程中是如何体现的"><span
-class="header-section-number">2</span>
-问题2：结合案例说明“科学技术是第一生产力”在探月工程的推进过程中是如何体现的？</h4>
-<p><strong>科技创新直接创造生产力：</strong>
-探月工程通过技术突破（发射、制导、软着陆、采样返回等），实现了以前难以想象的生产行为——人类对月球资源的探测与采集能力。技术进步变“想象”为“可操作”，从根本上扩展了人类的生产边界。
-<strong>技术带动产业链协同发展：</strong>
-探月不是孤立的研究活动，而是带动航天材料、制造、电子、遥感、通信、地面控制等多个产业协同升级。案例中多次任务成功说明，这些技术复合体能提高生产效率、催生新产业，从而增强国民经济的生产能力。
-<strong>科技成果向民用转换，提升社会生产效率：</strong>
-航天领域的许多关键技术能下游民用（比如卫星遥感用于农业、气象、资源调查；再入与防热材料用于运输设备），因此科研成果转化成为增强社会整体生产力的直接方式。
-<strong>人才与组织生产力的提升：</strong>
-探月工程汇聚高端人才、训练工程组织和管理能力，这些“软生产力”通过技术项目的实施被实际转化为国家的可持续发展动力。正如案例所述，“不超预算、不降指标、不拖时间”的执行，体现了制度与技术共同提高生产力。
-<strong>科技驱动未来生产方式的转型：</strong>
-探月代表未来“外太空资源开发”“深空探测产业化”的前沿，长期看科技成为开辟新生产领域的先导。嫦娥五号带回月壤样品，标志着技术已能支撑“资源从外太空转移到地球”的可能性，是“第一生产力”从理论到实践的展现。</p>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>markdown 中的数学符号</title>
     <url>/2025/11/09/03_markdown%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7/</url>
     <content><![CDATA[<p>用<code>markdown</code>写笔记的时候经常要输入各种数学符号,并且很多语法和<code>Latex</code>通用,所以在此建立常用符号词典,供用时查阅.
@@ -301,8 +171,334 @@ class="header-section-number">2</span>
       </categories>
       <tags>
         <tag>Markdown</tag>
-        <tag>数学</tag>
         <tag>Latex</tag>
+        <tag>数学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>离散数学名词词典</title>
+    <url>/2025/11/09/02_%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%90%8D%E8%AF%8D%E8%AF%8D%E5%85%B8/</url>
+    <content><![CDATA[<p>离散数学概念、定理多而杂，经常出现学完一章后，前面的内容就忘得差不多的情况。对此建立一个离散数学名词词典，方便查询与复习使用。
+主要参考书籍：<strong>离散数学/李盘林等编著. –3版.
+–北京：高等教育出版社，2016.2</strong></p>
+<span id="more"></span>
+<h1 data-number="1" id="数理逻辑"><span
+class="header-section-number">1</span> 数理逻辑</h1>
+<h2 data-number="1.1" id="命题逻辑"><span
+class="header-section-number">1.1</span> 命题逻辑</h2>
+<h3 data-number="1.1.1" id="命题与联结词"><span
+class="header-section-number">1.1.1</span> 命题与联结词</h3>
+<p>命题、命题常元、命题变元、联结词（<span
+class="math inline">\(\lnot\)</span> <span
+class="math inline">\(\land\)</span> <span
+class="math inline">\(\lor\)</span> <span
+class="math inline">\(\to\)</span> <span
+class="math inline">\(\leftrightarrow\)</span>）</p>
+<h3 data-number="1.1.2" id="命题公式翻译和真值表"><span
+class="header-section-number">1.1.2</span> 命题公式、翻译和真值表</h3>
+<h3 data-number="1.1.3" id="公式分类和等价式"><span
+class="header-section-number">1.1.3</span> 公式分类和等价式</h3>
+<p>有14条基本等价式–命题定律:</p>
+<ol type="1">
+<li>双否律</li>
+<li>交换律</li>
+<li>结合律</li>
+<li>分配律</li>
+<li>德摩根律</li>
+<li>等幂律</li>
+<li>同一律</li>
+<li>零律</li>
+<li>吸收律</li>
+<li>互补律</li>
+<li>条件式转化律</li>
+<li>双条件式转化律</li>
+<li>输出律</li>
+<li>归谬律</li>
+</ol>
+<blockquote>
+<p>简单地说，联结词符合上面的几条定律。</p>
+</blockquote>
+<h4 data-number="1.1.3.1" id="代入规则和替换规则"><span
+class="header-section-number">1.1.3.1</span> 代入规则和替换规则</h4>
+<h3 data-number="1.1.4" id="对偶式与蕴含式"><span
+class="header-section-number">1.1.4</span> 对偶式与蕴含式</h3>
+<h4 data-number="1.1.4.1" id="对偶式"><span
+class="header-section-number">1.1.4.1</span> 对偶式</h4>
+<p><strong>定义:</strong> 给定仅使用 <span
+class="math inline">\(\lnot\)</span> <span
+class="math inline">\(\land\)</span> <span
+class="math inline">\(\lor\)</span> 中的命题公式<span
+class="math inline">\(A\)</span>中</p>
+<p>将<span class="math inline">\(\land\)</span>与<span
+class="math inline">\(\lor\)</span>互换,<span
+class="math inline">\(F\)</span>与<span
+class="math inline">\(T\)</span>互换</p>
+<p>得到新的命题公式<span class="math inline">\(A^*\)</span>,称<span
+class="math inline">\(A^*\)</span>为<span
+class="math inline">\(A\)</span>的对偶式</p>
+<p>有以下性质(对偶定理):</p>
+<ul>
+<li><span
+class="math inline">\(A\)</span>的否定等价于其命题变元否定的对偶式</li>
+<li>命题变元否定的公式等价于对偶式之否定</li>
+</ul>
+<p><strong>定理:</strong></p>
+<p><span class="math inline">\(A \Leftrightarrow B\)</span> 则 <span
+class="math inline">\(A^* \Leftrightarrow B^*\)</span></p>
+<h4 data-number="1.1.4.2" id="蕴含式"><span
+class="header-section-number">1.1.4.2</span> 蕴含式</h4>
+<p><strong>定义:</strong> 设<span
+class="math inline">\(A\)</span>与<span
+class="math inline">\(B\)</span>是两个命题公式,若<span
+class="math inline">\(A\rightarrow B\)</span>是永真式,则称<span
+class="math inline">\(A\)</span>蕴含于<span
+class="math inline">\(B\)</span>,记作<span class="math inline">\(A
+\Rightarrow B\)</span></p>
+<p>称<span class="math inline">\(A \Rightarrow
+B\)</span>为蕴含式或<strong>永真式</strong>.</p>
+<p><strong>给出常见永真式:</strong></p>
+<ol type="1">
+<li>化简式 <span class="math inline">\(A \land B \Rightarrow
+A\)</span></li>
+<li>化简式 <span class="math inline">\(A \lor B \Rightarrow
+B\)</span></li>
+<li>附加式 <span class="math inline">\(A \Rightarrow A \land
+B\)</span></li>
+<li>附加式变形 <span class="math inline">\(\lnot A \Rightarrow A
+\rightarrow B\)</span> (略,详见书 p19)</li>
+</ol>
+<h3 data-number="1.1.5" id="联结词扩充与功能完全组"><span
+class="header-section-number">1.1.5</span> 联结词扩充与功能完全组</h3>
+<p>为了简介而直接地表达命题间的联系,新定义联结词:</p>
+<p>合取非(<span class="math inline">\(\uparrow\)</span>) 析取非(<span
+class="math inline">\(\downarrow\)</span>) 条件非(<span
+class="math inline">\(\nRightarrow\)</span>) 双条件非(<span
+class="math inline">\(\nLeftrightarrow\)</span>)</p>
+<blockquote>
+<p>外观上,就是以前用的符号加了个横杠,表示”非”</p>
+<p>用法上,在原来的用法的基础上,前面加个”<span
+class="math inline">\(\lnot\)</span>“即可</p>
+<p>e.g. <span class="math inline">\(P\)</span> 和 <span
+class="math inline">\(Q\)</span> 均为 <span
+class="math inline">\(T\)</span> 时 , <span class="math inline">\(P
+\downarrow Q\)</span> 为 <span class="math inline">\(F\)</span></p>
+</blockquote>
+<h4 data-number="1.1.5.1" id="功能完全组"><span
+class="header-section-number">1.1.5.1</span> 功能完全组</h4>
+<p>用部分联结词等价表示某个命题公式</p>
+<h3 data-number="1.1.6" id="范式"><span
+class="header-section-number">1.1.6</span> 范式</h3>
+<h4 data-number="1.1.6.1" id="简单合取式-简单析取式"><span
+class="header-section-number">1.1.6.1</span> 简单合取式 简单析取式</h4>
+<p><strong>文字</strong>: 命题变元及其否定</p>
+<p>相应地:相反文字</p>
+<p><strong>简单析取式</strong>:
+由<strong>文字</strong>析取得到的命题公式
+每个文字为<strong>析取项</strong></p>
+<p>类似地:<strong>简单合取式</strong>、<strong>合取项</strong></p>
+<h4 data-number="1.1.6.2" id="析取范式-合取范式"><span
+class="header-section-number">1.1.6.2</span> 析取范式 合取范式</h4>
+<p><strong>析取范式:</strong>大于等于一个<strong>简单合取式</strong>的<strong>析取</strong></p>
+<p>类似地:<strong>合取范式</strong></p>
+<p><strong>求范式步骤</strong>:</p>
+<ol type="1">
+<li>消掉 <span class="math inline">\(\land \lor
+\lnot\)</span>以外的联结词</li>
+<li>将<span class="math inline">\(\lnot\)</span>都移到命题变元之前</li>
+<li>利用结合律分配律等整理即可</li>
+</ol>
+<h4 data-number="1.1.6.3" id="应用"><span
+class="header-section-number">1.1.6.3</span> 应用</h4>
+<p>可用于判断<strong>永假式</strong>、<strong>永真式</strong></p>
+<p>此外,<strong>范式不唯一</strong></p>
+<h3 data-number="1.1.7" id="公式的主范式"><span
+class="header-section-number">1.1.7</span> 公式的主范式</h3>
+<h4 data-number="1.1.7.1" id="主析取范式"><span
+class="header-section-number">1.1.7.1</span> 主析取范式</h4>
+<p><strong>小项</strong>:
+含有n个命题变元的简单<strong>合取式</strong>中,若每个命题变元与其否定不同时存在,且二者其中出现且仅出现一次,则称该简单合取式为小项,或布尔积</p>
+<blockquote>
+<p><span class="math inline">\(n\)</span> 个命题变元生成 <span
+class="math inline">\(2^n\)</span> 个小项</p>
+</blockquote>
+<p><strong>小项的书写</strong>:
+命题变元按字典排列,命题变元对应1,命题变元的否定对应0,可对<span
+class="math inline">\(2^n\)</span>个小项依二进制数编码,记为<span
+class="math inline">\(m_i\)</span></p>
+<p>其中,i是由二进制转化的十进制数,据此编码可求得小项的真值表.观察表的结构:</p>
+<ol type="1">
+<li>各小项的真值表均不同</li>
+<li>两个不同的小项合取式永假</li>
+<li>所有小项析取式永真</li>
+<li>每个小项只有一个成真指派</li>
+</ol>
+<p><strong>主析取范式</strong>:
+给定公式的析取范式中,若其简单合取式都是小项,则称该范式为主析取范式.</p>
+<p><strong>定理</strong>:
+任意含n个命题变元的非永假命题公式都存在与其等价的主析取范式</p>
+<p><strong>定理</strong>:
+任意含n个命题变元的非永假命题公式,主析取范式唯一</p>
+<h4 data-number="1.1.7.2" id="主合取范式"><span
+class="header-section-number">1.1.7.2</span> 主合取范式</h4>
+<p><strong>大项</strong>: n个命题变元的简单析取式中,
+若每个命题变元与其否定不同时存在,且二者其中出现且仅出现一次,则称该简单析取式为大项,或布尔和</p>
+<blockquote>
+<p><span class="math inline">\(n\)</span> 个命题变元生成 <span
+class="math inline">\(2^n\)</span> 个大项</p>
+</blockquote>
+<p><strong>大项的书写</strong>:编码与小项相同.得到真值表,观察结构:</p>
+<ol type="1">
+<li>各大项的真值表均不同</li>
+<li>两个不同的大项析取式永真</li>
+<li>所有大项合取式永假</li>
+<li>每个大项只有一个解释为假</li>
+</ol>
+<p><strong>定理</strong>:
+任意含n个命题变元的非永真命题公式都存在与其等价的主合取范式</p>
+<p><strong>定理</strong>:
+任意含n个命题变元的非永真命题公式,主合取范式唯一</p>
+<h2 data-number="1.2" id="谓词逻辑"><span
+class="header-section-number">1.2</span> 谓词逻辑</h2>
+<h3 data-number="1.2.1" id="基本概念与表示"><span
+class="header-section-number">1.2.1</span> 基本概念与表示</h3>
+<p><strong>个体</strong>: 原子命题中描述的对象</p>
+<p>表示特定的个体:
+<strong>个体常元</strong>;表示不确定的个体:<strong>个体变元</strong></p>
+<p><strong>谓词</strong>:
+原子命题中,用以描述个体的性质或者个体间关系的部分</p>
+<p><strong>表示</strong>:
+对于给定的命题,用小写字母(个体常元/变元)表示个体,大写字母表示谓词</p>
+<p><strong>e.g.</strong> <span
+class="math inline">\(P(a_1,a_2,\dots,a_n)\)</span></p>
+<p>n=1:一元谓词;特别地,n=0:零元谓词,这是一个命题</p>
+<blockquote>
+<p>达成了命题与谓词的统一</p>
+</blockquote>
+<h4 data-number="1.2.1.1" id="量词"><span
+class="header-section-number">1.2.1.1</span> 量词</h4>
+<p><span class="math inline">\(\forall x\)</span>、 <span
+class="math inline">\(\exists x\)</span>、 <span
+class="math inline">\(\exists! x\)</span>(存在唯一),称<span
+class="math inline">\(x\)</span>为指导变元.</p>
+<h3 data-number="1.2.2" id="谓词公式与翻译"><span
+class="header-section-number">1.2.2</span> 谓词公式与翻译</h3>
+<p><strong>项</strong>:由以下规则形成: - 个体常元和个体变元是项 -
+若<span class="math inline">\(f\)</span>是<span
+class="math inline">\(n\)</span>元函数,且<span
+class="math inline">\(t_1,t_2 \dot t_n\)</span>是项,则<span
+class="math inline">\(f(t_1,t_2 \dot t_n)\)</span>是项. -
+所有项都是有限次地使用以上两条规则生成</p>
+<p><strong>谓词逻辑的翻译</strong>:
+将文字叙述的命题,用谓词公式表示出来.反之亦然.</p>
+<h3 data-number="1.2.3" id="约束变元与自由变元"><span
+class="header-section-number">1.2.3</span> 约束变元与自由变元</h3>
+<p><strong>定义</strong> 给定一个谓词公式<span
+class="math inline">\(A\)</span>,其中一部分公式形如<span
+class="math inline">\((\forall x)B(x)\)</span>或<span
+class="math inline">\((\exists x)B(x)\)</span>,则称它为<span
+class="math inline">\(A\)</span>的<span class="math inline">\(x\)</span>
+<strong>约束部分</strong>,称<span
+class="math inline">\(B(x)\)</span>为相应量词 <strong>作用域</strong> 或
+<strong>辖域</strong> ,在辖域中,<span
+class="math inline">\(x\)</span>的所有出现称为约束出现,<span
+class="math inline">\(x\)</span>称为<strong>约束变元</strong>;<span
+class="math inline">\(B\)</span>中不是约束出现的其他个体变元的出现称为自由出现,这些个体变元称为<strong>自由变元</strong>.</p>
+<blockquote>
+<p>看自由出现还是约束出现,要针对某个变元的辖域来讲.</p>
+</blockquote>
+<p>约束变元-&gt;改名</p>
+<p>自由变元-&gt;代入</p>
+<p>共同点:不能改变约束关系.</p>
+<h3 data-number="1.2.4" id="谓词逻辑的解释及其赋值"><span
+class="header-section-number">1.2.4</span> 谓词逻辑的解释及其赋值</h3>
+<p><strong>(持续更新)</strong></p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+        <category>离散数学</category>
+      </categories>
+      <tags>
+        <tag>数学</tag>
+        <tag>学习</tag>
+        <tag>离散数学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第二次马原案例分析</title>
+    <url>/2025/11/03/test_%E9%A9%AC%E5%8E%9F%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/</url>
+    <content><![CDATA[<h4 data-number="1" id="问题1结合案例说明科学技术对社会发展的作用"><span
+class="header-section-number">1</span>
+问题1：结合案例说明科学技术对社会发展的作用？</h4>
+<p><strong>推动国家综合实力提升：</strong>
+探月工程体现出科技实力对国家国际地位、军事与科技竞争力的直接推动作用。嫦娥工程从绕月、落月到采样返回，展示了中国航天技术的跨越式提升，增强国家在国际舞台上的影响力与话语权。
+<span id="more"></span> <strong>带动产业与人才发展：</strong>
+探月需要航天器、遥感、材料、通信、再入返回等大片技术集成。这些技术突破不仅用于航天，还会向上下游工业、科研与教育扩散，形成技术溢出与产业链升级，培养大量高素质科研与工程人才。
+<strong>促进科学认知与创新能力：</strong>
+探月活动产生新的科学数据（如月球影像、月壤样品），推动基础科学研究（行星学、地质学、空间科学）发展，提升国家创新能力与科学研究水平。
+<strong>提升民族凝聚力与文化软实力：</strong>
+案例中“嫦娥”“玉兔”等文化命名，与万户飞天的历史叙事共同强化民族自豪感，科学成就成为社会认同与凝聚的重要来源，进而支撑政治稳定与社会发展动力。
+<strong>催生长期战略与国家治理能力提升：</strong>
+探月工程体现了“蓝图绘到底”的长期规划与组织实施能力，这种科技驱动的长期项目能提升国家治理、项目管理与风险应对能力，有利于其他领域的治理能力现代化。</p>
+<h4 data-number="2"
+id="问题2结合案例说明科学技术是第一生产力在探月工程的推进过程中是如何体现的"><span
+class="header-section-number">2</span>
+问题2：结合案例说明“科学技术是第一生产力”在探月工程的推进过程中是如何体现的？</h4>
+<p><strong>科技创新直接创造生产力：</strong>
+探月工程通过技术突破（发射、制导、软着陆、采样返回等），实现了以前难以想象的生产行为——人类对月球资源的探测与采集能力。技术进步变“想象”为“可操作”，从根本上扩展了人类的生产边界。
+<strong>技术带动产业链协同发展：</strong>
+探月不是孤立的研究活动，而是带动航天材料、制造、电子、遥感、通信、地面控制等多个产业协同升级。案例中多次任务成功说明，这些技术复合体能提高生产效率、催生新产业，从而增强国民经济的生产能力。
+<strong>科技成果向民用转换，提升社会生产效率：</strong>
+航天领域的许多关键技术能下游民用（比如卫星遥感用于农业、气象、资源调查；再入与防热材料用于运输设备），因此科研成果转化成为增强社会整体生产力的直接方式。
+<strong>人才与组织生产力的提升：</strong>
+探月工程汇聚高端人才、训练工程组织和管理能力，这些“软生产力”通过技术项目的实施被实际转化为国家的可持续发展动力。正如案例所述，“不超预算、不降指标、不拖时间”的执行，体现了制度与技术共同提高生产力。
+<strong>科技驱动未来生产方式的转型：</strong>
+探月代表未来“外太空资源开发”“深空探测产业化”的前沿，长期看科技成为开辟新生产领域的先导。嫦娥五号带回月壤样品，标志着技术已能支撑“资源从外太空转移到地球”的可能性，是“第一生产力”从理论到实践的展现。</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2025/11/08/test_hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very
+first post. Check <a href="https://hexo.io/docs/">documentation</a> for
+more info. If you get any problems when using Hexo, you can find the
+answer in <a
+href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or
+you can ask me on <a
+href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 data-number="1" id="quick-start"><span
+class="header-section-number">1</span> Quick Start</h2>
+<h3 data-number="1.1" id="create-a-new-post"><span
+class="header-section-number">1.1</span> Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a
+href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 data-number="1.2" id="run-server"><span
+class="header-section-number">1.2</span> Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 data-number="1.3" id="generate-static-files"><span
+class="header-section-number">1.3</span> Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a
+href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 data-number="1.4" id="deploy-to-remote-sites"><span
+class="header-section-number">1.4</span> Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a
+href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
       </tags>
   </entry>
 </search>
