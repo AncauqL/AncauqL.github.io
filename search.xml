@@ -333,46 +333,6 @@ class="header-section-number">4</span> 如何在自己的文章里面插入图�
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2025/11/08/test_hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very
-first post. Check <a href="https://hexo.io/docs/">documentation</a> for
-more info. If you get any problems when using Hexo, you can find the
-answer in <a
-href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or
-you can ask me on <a
-href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 data-number="1" id="quick-start"><span
-class="header-section-number">1</span> Quick Start</h2>
-<h3 data-number="1.1" id="create-a-new-post"><span
-class="header-section-number">1.1</span> Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a
-href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 data-number="1.2" id="run-server"><span
-class="header-section-number">1.2</span> Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 data-number="1.3" id="generate-static-files"><span
-class="header-section-number">1.3</span> Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a
-href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 data-number="1.4" id="deploy-to-remote-sites"><span
-class="header-section-number">1.4</span> Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a
-href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>markdown 中的数学符号</title>
     <url>/2025/11/09/03_markdown%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7/</url>
     <content><![CDATA[<p>用<code>markdown</code>写笔记的时候经常要输入各种数学符号,并且很多语法和<code>Latex</code>通用,所以在此建立常用符号词典,供用时查阅.
@@ -492,44 +452,6 @@ href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
         <tag>数学</tag>
         <tag>Markdown</tag>
         <tag>Latex</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第二次马原案例分析</title>
-    <url>/2025/11/03/test_%E9%A9%AC%E5%8E%9F%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/</url>
-    <content><![CDATA[<h4 data-number="1" id="问题1结合案例说明科学技术对社会发展的作用"><span
-class="header-section-number">1</span>
-问题1：结合案例说明科学技术对社会发展的作用？</h4>
-<p><strong>推动国家综合实力提升：</strong>
-探月工程体现出科技实力对国家国际地位、军事与科技竞争力的直接推动作用。嫦娥工程从绕月、落月到采样返回，展示了中国航天技术的跨越式提升，增强国家在国际舞台上的影响力与话语权。
-<span id="more"></span> <strong>带动产业与人才发展：</strong>
-探月需要航天器、遥感、材料、通信、再入返回等大片技术集成。这些技术突破不仅用于航天，还会向上下游工业、科研与教育扩散，形成技术溢出与产业链升级，培养大量高素质科研与工程人才。
-<strong>促进科学认知与创新能力：</strong>
-探月活动产生新的科学数据（如月球影像、月壤样品），推动基础科学研究（行星学、地质学、空间科学）发展，提升国家创新能力与科学研究水平。
-<strong>提升民族凝聚力与文化软实力：</strong>
-案例中“嫦娥”“玉兔”等文化命名，与万户飞天的历史叙事共同强化民族自豪感，科学成就成为社会认同与凝聚的重要来源，进而支撑政治稳定与社会发展动力。
-<strong>催生长期战略与国家治理能力提升：</strong>
-探月工程体现了“蓝图绘到底”的长期规划与组织实施能力，这种科技驱动的长期项目能提升国家治理、项目管理与风险应对能力，有利于其他领域的治理能力现代化。</p>
-<h4 data-number="2"
-id="问题2结合案例说明科学技术是第一生产力在探月工程的推进过程中是如何体现的"><span
-class="header-section-number">2</span>
-问题2：结合案例说明“科学技术是第一生产力”在探月工程的推进过程中是如何体现的？</h4>
-<p><strong>科技创新直接创造生产力：</strong>
-探月工程通过技术突破（发射、制导、软着陆、采样返回等），实现了以前难以想象的生产行为——人类对月球资源的探测与采集能力。技术进步变“想象”为“可操作”，从根本上扩展了人类的生产边界。
-<strong>技术带动产业链协同发展：</strong>
-探月不是孤立的研究活动，而是带动航天材料、制造、电子、遥感、通信、地面控制等多个产业协同升级。案例中多次任务成功说明，这些技术复合体能提高生产效率、催生新产业，从而增强国民经济的生产能力。
-<strong>科技成果向民用转换，提升社会生产效率：</strong>
-航天领域的许多关键技术能下游民用（比如卫星遥感用于农业、气象、资源调查；再入与防热材料用于运输设备），因此科研成果转化成为增强社会整体生产力的直接方式。
-<strong>人才与组织生产力的提升：</strong>
-探月工程汇聚高端人才、训练工程组织和管理能力，这些“软生产力”通过技术项目的实施被实际转化为国家的可持续发展动力。正如案例所述，“不超预算、不降指标、不拖时间”的执行，体现了制度与技术共同提高生产力。
-<strong>科技驱动未来生产方式的转型：</strong>
-探月代表未来“外太空资源开发”“深空探测产业化”的前沿，长期看科技成为开辟新生产领域的先导。嫦娥五号带回月壤样品，标志着技术已能支撑“资源从外太空转移到地球”的可能性，是“第一生产力”从理论到实践的展现。</p>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
       </tags>
   </entry>
   <entry>
@@ -700,6 +622,84 @@ class="header-section-number">6</span> 五月</h3>
       </categories>
       <tags>
         <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2025/11/08/test_hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very
+first post. Check <a href="https://hexo.io/docs/">documentation</a> for
+more info. If you get any problems when using Hexo, you can find the
+answer in <a
+href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or
+you can ask me on <a
+href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 data-number="1" id="quick-start"><span
+class="header-section-number">1</span> Quick Start</h2>
+<h3 data-number="1.1" id="create-a-new-post"><span
+class="header-section-number">1.1</span> Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a
+href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 data-number="1.2" id="run-server"><span
+class="header-section-number">1.2</span> Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 data-number="1.3" id="generate-static-files"><span
+class="header-section-number">1.3</span> Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a
+href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 data-number="1.4" id="deploy-to-remote-sites"><span
+class="header-section-number">1.4</span> Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a
+href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第二次马原案例分析</title>
+    <url>/2025/11/03/test_%E9%A9%AC%E5%8E%9F%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/</url>
+    <content><![CDATA[<h4 data-number="1" id="问题1结合案例说明科学技术对社会发展的作用"><span
+class="header-section-number">1</span>
+问题1：结合案例说明科学技术对社会发展的作用？</h4>
+<p><strong>推动国家综合实力提升：</strong>
+探月工程体现出科技实力对国家国际地位、军事与科技竞争力的直接推动作用。嫦娥工程从绕月、落月到采样返回，展示了中国航天技术的跨越式提升，增强国家在国际舞台上的影响力与话语权。
+<span id="more"></span> <strong>带动产业与人才发展：</strong>
+探月需要航天器、遥感、材料、通信、再入返回等大片技术集成。这些技术突破不仅用于航天，还会向上下游工业、科研与教育扩散，形成技术溢出与产业链升级，培养大量高素质科研与工程人才。
+<strong>促进科学认知与创新能力：</strong>
+探月活动产生新的科学数据（如月球影像、月壤样品），推动基础科学研究（行星学、地质学、空间科学）发展，提升国家创新能力与科学研究水平。
+<strong>提升民族凝聚力与文化软实力：</strong>
+案例中“嫦娥”“玉兔”等文化命名，与万户飞天的历史叙事共同强化民族自豪感，科学成就成为社会认同与凝聚的重要来源，进而支撑政治稳定与社会发展动力。
+<strong>催生长期战略与国家治理能力提升：</strong>
+探月工程体现了“蓝图绘到底”的长期规划与组织实施能力，这种科技驱动的长期项目能提升国家治理、项目管理与风险应对能力，有利于其他领域的治理能力现代化。</p>
+<h4 data-number="2"
+id="问题2结合案例说明科学技术是第一生产力在探月工程的推进过程中是如何体现的"><span
+class="header-section-number">2</span>
+问题2：结合案例说明“科学技术是第一生产力”在探月工程的推进过程中是如何体现的？</h4>
+<p><strong>科技创新直接创造生产力：</strong>
+探月工程通过技术突破（发射、制导、软着陆、采样返回等），实现了以前难以想象的生产行为——人类对月球资源的探测与采集能力。技术进步变“想象”为“可操作”，从根本上扩展了人类的生产边界。
+<strong>技术带动产业链协同发展：</strong>
+探月不是孤立的研究活动，而是带动航天材料、制造、电子、遥感、通信、地面控制等多个产业协同升级。案例中多次任务成功说明，这些技术复合体能提高生产效率、催生新产业，从而增强国民经济的生产能力。
+<strong>科技成果向民用转换，提升社会生产效率：</strong>
+航天领域的许多关键技术能下游民用（比如卫星遥感用于农业、气象、资源调查；再入与防热材料用于运输设备），因此科研成果转化成为增强社会整体生产力的直接方式。
+<strong>人才与组织生产力的提升：</strong>
+探月工程汇聚高端人才、训练工程组织和管理能力，这些“软生产力”通过技术项目的实施被实际转化为国家的可持续发展动力。正如案例所述，“不超预算、不降指标、不拖时间”的执行，体现了制度与技术共同提高生产力。
+<strong>科技驱动未来生产方式的转型：</strong>
+探月代表未来“外太空资源开发”“深空探测产业化”的前沿，长期看科技成为开辟新生产领域的先导。嫦娥五号带回月壤样品，标志着技术已能支撑“资源从外太空转移到地球”的可能性，是“第一生产力”从理论到实践的展现。</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
       </tags>
   </entry>
 </search>
